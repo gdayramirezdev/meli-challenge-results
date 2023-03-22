@@ -14,15 +14,16 @@
 
 Ejecutar back end
 ```bash
-  git clone https://github.com/gdayramirezdev/meli-challenge.git
-  cd meli-challenge
+  git clone https://github.com/gdayramirezdev/meli-challenge-backend.git
+  cd meli-challenge-backend
   npm install
   npm run dev
 ```
+
 Ejecutar front end
 ```bash
-  git clone https://github.com/gdayramirezdev/meli-challenge-backend.git
-  cd meli-challenge-backend
+  git clone https://github.com/gdayramirezdev/meli-challenge.git
+  cd meli-challenge
   npm install
   npm run dev
 ```
