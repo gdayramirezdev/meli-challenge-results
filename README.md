@@ -7,7 +7,7 @@
 
 | No. | Repositorio                                                                       | Puerto | URL                    | Lenguaje    | Framework | 
 |:---:|-----------------------------------------------------------------------------------|:------:|------------------------|:-----------:|:---------:|
-| 1   | [Front End](https://github.com/gdayramirezdev/meli-challenge-backend)                                   | 3000   | http://localhost:3000             | Typescript  | NextJs    |
+| 1   | [Front End](https://github.com/gdayramirezdev/meli-challenge)                                   | 3000   | http://localhost:3000             | Typescript  | NextJs    |
 | 2   | [Back End](https://github.com/gdayramirezdev/meli-challenge-backend)                         | 3001   | http://localhost:3001    | Typescript  | Express    |
 
 #### Instrucciones para ejecutarlo
